@@ -16,7 +16,6 @@ pip install -r requirements.txt
 2. Prepare Data. You can obtain the well pre-processed datasets from [[Google Drive]](https://drive.google.com/file/d/12KZUiCSDyQM8MEg7nDABXlrYog9DDqRl/view?usp=drive_link). Then unzip the downloaded data.
 
 ``` bash
-wget https://drive.google.com/file/d/12KZUiCSDyQM8MEg7nDABXlrYog9DDqRl/view?usp=drive_link
 unzip dataset.zip
 ```
 
