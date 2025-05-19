@@ -1,0 +1,14 @@
+einops
+local-attention
+matplotlib
+numpy==1.24.4
+pandas
+patool
+reformer-pytorch
+scikit-learn
+scipy
+sktime
+sympy
+torch==2.4.1
+tqdm
+PyWavelets
