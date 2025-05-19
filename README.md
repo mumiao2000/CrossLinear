@@ -13,7 +13,7 @@ Full version of our manuscript: TO DO.
 pip install -r requirements.txt
 ```
 
-2. Prepare Data. You can obtain the well pre-processed datasets from [[Google Drive]](https://drive.google.com/file/d/12KZUiCSDyQM8MEg7nDABXlrYog9DDqRl/view?usp=drive_link). Then unzip the downloaded data.
+2. Prepare Data. You can obtain the datasets from [[Google Drive]](https://drive.google.com/file/d/1flS9spmBLukmZCQcGBrNrzQ9QJW35iaX/view?usp=drive_link). Then unzip the downloaded data.
 
 ``` bash
 unzip dataset.zip
