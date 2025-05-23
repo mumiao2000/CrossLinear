@@ -1,14 +1,15 @@
-einops
-local-attention
-matplotlib
+# python==3.8.20
+einops==0.8.1
+local-attention==1.10.0
+matplotlib==3.7.5
 numpy==1.24.4
-pandas
-patool
-reformer-pytorch
-scikit-learn
-scipy
-sktime
-sympy
+pandas==2.0.3
+patool==1.12
+reformer-pytorch==1.4.4
+scikit-learn==1.3.2
+scipy==1.10.1
+sktime==0.29.1
+sympy==1.13.3
 torch==2.4.1
-tqdm
-PyWavelets
+tqdm==4.67.1
+PyWavelets==1.4.1
