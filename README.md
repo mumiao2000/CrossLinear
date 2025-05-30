@@ -2,7 +2,7 @@
 
 Official implementation of **"CrossLinear: Plug-and-Play Cross-Correlation Embedding for Time Series Forecasting with Exogenous Variables"**.
 
-Full version of our manuscript: [https://doi.org/10.48550/arXiv.2505.23116](https://doi.org/10.48550/arXiv.2505.23116).
+Full version of our manuscript: [https://arxiv.org/pdf/2505.23116](https://arxiv.org/pdf/2505.23116).
 
 
 ## Usage
