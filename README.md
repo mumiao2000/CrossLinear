@@ -1,13 +1,13 @@
 ## CrossLinear
 
-Official implementation of **"CrossLinear: Plug-and-Play Cross-Correlation Embedding for Time Series Forecasting with Exogenous Variables"**.
+Official implementation of **"[CrossLinear: Plug-and-Play Cross-Correlation Embedding for Time Series Forecasting with Exogenous Variables](https://arxiv.org/pdf/2505.23116)"** ([KDD 2025](https://dl.acm.org/doi/proceedings/10.1145/3711896)).
 
-Full version of our manuscript: [https://arxiv.org/pdf/2505.23116](https://arxiv.org/pdf/2505.23116).
+Slide is [[here]](https://drive.google.com/file/d/1d4KLtCu3_7TeUTb6hN_7YUl3iEpMmJ5I/view?usp=drive_link), and Poster is [[here]](https://drive.google.com/file/d/1kNLneSCxnIMTJAJpD4yA9wz6i0-uw4XR/view?usp=drive_link).
 
 
 ## Usage
 
-1. Install Python 3.8.20. For convenience, execute the following command.
+1. Install `Python 3.8.20` first. For convenience, then execute the following command.
 
 ``` bash
 pip install -r requirements.txt
@@ -34,7 +34,13 @@ sh ./scripts/multivariate_forecast/ECL/CrossLinear.sh
 If you find this repo useful, please cite our paper.
 
 ```
-TO DO.
+@inproceedings{CrossLinear,
+  title = {CrossLinear: Plug-and-Play Cross-Correlation Embedding for Time Series Forecasting with Exogenous Variables},
+  author = {Zhou, Pengfei and Liu, Yunlong and Liang, Junli and Song, Qi and Li, Xiangyang},
+  booktitle = {Proceedings of the 31st ACM SIGKDD Conference on Knowledge Discovery and Data Mining V.2},
+  year = {2025},
+  doi = {10.1145/3711896.3736899},
+}
 ```
 
 
